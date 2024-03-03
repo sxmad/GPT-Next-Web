@@ -544,9 +544,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>aapp</div>
+            <div className={styles["main-title"]}>www1</div>
             <div className={styles["sub-title"]}>
-              aapp.aap
+              www1.aap
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
